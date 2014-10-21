@@ -3,6 +3,7 @@
  */
 var project = require('./projectEntry.js');
 var file = require('./fileEntry.js');
+var version = require('./versionEntry.js');
 
 exports.list_parser = function (parsedXml, projects) {
     parsedXml.forEach(function (element, index, array) {
@@ -11,7 +12,7 @@ exports.list_parser = function (parsedXml, projects) {
             projects[name] = new project.Project(name, element.commit[0].date, element.commit[0].$.revision, null, {});
         }
         if(element.$.kind == 'file') {
-            var newFile = new file.File(element.size, getFiletype(String(element.name)), element.name, {});
+            var newFile = new file.File(element.size, getFiletype(String(element.name)), element.name, []);
             projects[name].files[getFilename(String(element.name))] = newFile;
         }
         var date = Date.parse(element.commit[0].date);
@@ -30,15 +31,21 @@ exports.list_parser = function (parsedXml, projects) {
 exports.log_parser = function (parsedXml, projects) {
     parsedXml.forEach(function (element, index, array) {
         var projectName = getProjectName(String(element.paths[0].path[0]._), 2);
-        if(projects[projectName].version == element.$.revision) {
-            projects[projectName].summary = element.msg
+        if(!(typeof projectName === 'undefined') && !(typeof projects[projectName] === 'undefined')){
+
+            if(projects[projectName].version == element.$.revision) {
+                projects[projectName].summary = element.msg
+            }
+            element.paths[0].path.forEach(function (pathInfo, index, array) {
+                var currFile = projects[projectName].files[getFilename(pathInfo._)];
+                if(!(typeof currFile === 'undefined')) {
+                    var newVersion = new version.Version(element.$.revision, element.author, element.msg, element.date);
+                    currFile.versions.push(newVersion);
+                }
+            })
         }
-        element.paths[0].path.forEach(function (element, index, array) {
-            var currFile = projects[projectName].files[getFilename(element._)];
-            //TODO add version info to file
-            //currFile.versions
-        })
-    })
+    });
+    return projects
 };
 
 function getProjectName (name, index) {

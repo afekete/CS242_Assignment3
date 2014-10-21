@@ -24,7 +24,7 @@ async.parallel([
         fs.readFile(__dirname + '/svn_log.xml', function (err, data) {
             log_parser.parseString(data, function (err, result) {
                 svn_log = result;
-                console.log(util.inspect(result.log.logentry, false, null));
+                //console.log(util.inspect(result.log.logentry[0], false, null));
                 callback(0, null)
             })
         });
@@ -32,6 +32,8 @@ async.parallel([
 ],
 function(err, results) {
     project_list = parse.list_parser(svn_list.lists.list[0].entry, project_list);
+    project_list = parse.log_parser(svn_log.log.logentry, project_list);
+
 });
 
 app.use(express.static('public'));

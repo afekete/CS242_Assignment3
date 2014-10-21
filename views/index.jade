@@ -3,19 +3,39 @@
 html
     head
         title!= title
+        script(src='//code.jquery.com/jquery-1.11.0.min.js')
+        link(rel='stylesheet' href='//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css')
+        script(src='//code.jquery.com/jquery-1.10.2.js')
+        script(src='//code.jquery.com/ui/1.11.2/jquery-ui.js')
+        script.
+            $(function() {
+                $( "#accordion" ).accordion({
+                    collapsible: true,
+                    heightStyle: "fill"
+                });
+            });
     body
         h1 Projects:
-        ul
+        div(id='accordion')
             each project, title in project_list
-                li!= title
-                li!= 'Date: ' + project.date
-                li!= 'Revision ' + project.version
-                li files
-                    ul
-                        each file, name in project.files
-                            li!= name
-                                ul
-                                    li!= file.size + ' Bytes'
-                                    li!= 'Type: ' + file.type
-                                    li!= file.path
-                br
+                h3!= title
+                div
+                    li!= 'Date: ' + project.date
+                    li!= 'Revision ' + project.version
+                    li!= 'Message: ' + project.summary
+                    li files
+                        ul
+                            each file, name in project.files
+                                li!= name
+                                    ul
+                                        li!= file.size + ' Bytes'
+                                        li!= 'Type: ' + file.type
+                                        li!= file.path
+                                        li versions
+                                            ul
+                                                each version in file.versions
+                                                    li!= 'Revision: ' + version.revision
+                                                    li!= 'Netid: ' + version.netid
+                                                    li!= 'Message: ' + version.message
+                                                    li!= 'Date: ' + version.date
+                                                    br
