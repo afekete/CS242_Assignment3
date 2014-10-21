@@ -1,0 +1,14 @@
+title = name of top level directory
+date = time of most recent commit with title in name
+version = most recent version
+summary = most recent commit message
+each file:
+	size
+	type
+	path
+	file itself in iframe
+	each version:
+		revision #
+		netid of committer
+		commit message
+		date of commit

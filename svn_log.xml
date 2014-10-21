@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7604">
+<author>fekete2</author>
+<date>2014-10-19T05:32:27.653779Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment2.1/Manual test plan.pdf</path>
+</paths>
+<msg>test plan</msg>
+</logentry>
+<logentry
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/cmi_hub.json</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/graph</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/graph/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/graph/edge.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/graph/flight_graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/interfaces</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/cmd_interface.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/interfaces/public</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/interfaces/public/css</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/public/css/styles.css</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/interfaces/public/js</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/public/js/open_window.js</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/public/js/select_from_table.js</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/interfaces/views</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/views/city_info.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/views/index.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/views/map.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/views/route.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/views/statistics.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/interfaces/web_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.2/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/edge_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/flight_graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.2/tests/node_test.rb</path>
+</paths>
+<msg>2.2</msg>
+</logentry>
+<logentry
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/edge.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/flight_graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/public/css/styles.css</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/public/js</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/public/js/open_window.js</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/public/js/select_from_table.js</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/city_info.erb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/views/index.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/map.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/route.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/statistics.erb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/web_interface.rb</path>
+</paths>
+<msg>How long has it been? Probably entire week's work in this commit</msg>
+</logentry>
+<logentry
+   revision="6609">
+<author>fekete2</author>
+<date>2014-10-10T03:25:14.942403Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/cmd_interface.rb</path>
+</paths>
+<msg>updated interface bad input check</msg>
+</logentry>
+<logentry
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/edge.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/flight_graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/views/index.erb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/interfaces/web_interface.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/edge_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/flight_graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/tests/node_test.rb</path>
+</paths>
+<msg>stuff</msg>
+</logentry>
+<logentry
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/cmi_hub.json</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/graph</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/edge.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/flight_graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/cmd_interface.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/public</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/public/css</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/public/css/styles.css</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/views</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/index.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/web_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/edge_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/flight_graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/node_test.rb</path>
+</paths>
+<msg>recreate dir</msg>
+</logentry>
+<logentry
+   revision="6313">
+<author>fekete2</author>
+<date>2014-10-08T16:50:02.923112Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/fekete2/Assignment2.1</path>
+</paths>
+<msg>reorganized</msg>
+</logentry>
+<logentry
+   revision="6312">
+<author>fekete2</author>
+<date>2014-10-08T16:47:41.834477Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/graph</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/edge.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/flight_graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/cmd_interface.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/public</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/public/css</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/public/css/styles.css</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/interfaces/views</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/views/index.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/interfaces/web_interface.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/edge_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/flight_graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/tests/node_test.rb</path>
+</paths>
+<msg>reorganized</msg>
+</logentry>
+<logentry
+   revision="6284">
+<author>fekete2</author>
+<date>2014-10-08T04:40:25.192452Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/cmi_hub.json</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/flight_graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/views/index.erb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.1/web_interface.rb</path>
+</paths>
+<msg>All functionality present, need tests</msg>
+</logentry>
+<logentry
+   revision="6271">
+<author>fekete2</author>
+<date>2014-10-08T02:11:50.319449Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/edge.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/edge_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/flight_graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/map_data.json</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/node.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/node_test.rb</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/public</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/public/css</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/public/css/styles.css</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.1/views</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/views/index.erb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.1/web_interface.rb</path>
+</paths>
+<msg>2.1</msg>
+</logentry>
+<logentry
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/air_stat_funcs_test.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/cmd_interface_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/edge_test.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/graph_test.rb</path>
+<path
+   kind="file"
+   action="D">/fekete2/Assignment2.0/interface</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/node_test.rb</path>
+</paths>
+<msg>now with tests</msg>
+</logentry>
+<logentry
+   revision="5914">
+<author>fekete2</author>
+<date>2014-10-03T00:23:24.452876Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/edge.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/graph.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/node.rb</path>
+</paths>
+<msg>comments!</msg>
+</logentry>
+<logentry
+   revision="5655">
+<author>fekete2</author>
+<date>2014-10-02T03:33:28.010103Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.0/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/runConfigurations/graph.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/cmd_interface.rb</path>
+</paths>
+<msg>just need comments and tests</msg>
+</logentry>
+<logentry
+   revision="5644">
+<author>fekete2</author>
+<date>2014-10-02T03:05:42.346345Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/air_stat_funcs.rb</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment2.0/cmd_interface.rb</path>
+</paths>
+<msg>2.0</msg>
+</logentry>
+<logentry
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/cmd_interface.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/edge.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/graph.rb</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/interface</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/map_data.json</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment2.0/node.rb</path>
+</paths>
+<msg>2.0</msg>
+</logentry>
+<logentry
+   revision="5473">
+<author>fekete2</author>
+<date>2014-09-30T04:51:53.573212Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment2.0</path>
+</paths>
+<msg>2.0</msg>
+</logentry>
+<logentry
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/Game/BoardUI.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/Game/GameLogic.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Board.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.2/src/testCases/BoardUITest.java</path>
+</paths>
+<msg>updates</msg>
+</logentry>
+<logentry
+   revision="5408">
+<author>fekete2</author>
+<date>2014-09-27T18:17:16.182127Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/GUI Test Plan.pdf</path>
+</paths>
+<msg>updated test plan</msg>
+</logentry>
+<logentry
+   revision="5407">
+<author>fekete2</author>
+<date>2014-09-27T18:17:01.567282Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/fekete2/Assignment1.2/Doxyfile</path>
+</paths>
+<msg>remove doxyfile</msg>
+</logentry>
+<logentry
+   revision="5406">
+<author>fekete2</author>
+<date>2014-09-27T18:16:43.898866Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/fekete2/Assignment1.2/GUI Test Plan.odt</path>
+</paths>
+<msg>remove .odt</msg>
+</logentry>
+<logentry
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/Game/BoardUI.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/Game/GameLogic.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.2/src/Resources/Black_Shifter.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.2/src/Resources/Black_SmoothTalker.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.2/src/Resources/White_Shifter.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.2/src/Resources/White_SmoothTalker.png</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Board.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Piece.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/Shifter.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/board/SmoothTalker.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/Assignment1.2/src/testCases/BoardTest2.java</path>
+</paths>
+<msg>Added the two new pieces and fixed their various issues, among many other bugs im sure</msg>
+</logentry>
+<logentry
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/.idea</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/242Chess.iml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/GUI Test Plan.odt</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/GUI Test Plan.pdf</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production/242Chess</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production/242Chess/Game</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Game/BoardUI.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Game/GameLogic.class</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production/242Chess/Resources</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/Black_Rook.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/Resources/White_Rook.png</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production/242Chess/board</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Board.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/King.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Knight.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Piece.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Queen.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Rook.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Shifter.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/SmoothTalker.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/board/Square.class</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/out/production/242Chess/testCases</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/BoardTest2.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/KnightTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/PawnTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/QueenTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/ShifterTest.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/out/production/242Chess/testCases/SmoothTalkerTest.class</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/src/Game</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Game/BoardUI.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Game/GameLogic.java</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/src/Resources</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/Black_Rook.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/Resources/White_Rook.png</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/src/board</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Board.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/King.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Knight.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Piece.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Queen.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Rook.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Shifter.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/SmoothTalker.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/board/Square.java</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2/src/testCases</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/BoardTest2.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/ShifterTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.2/src/testCases/SmoothTalkerTest.java</path>
+</paths>
+<msg>1.2</msg>
+</logentry>
+<logentry
+   revision="5250">
+<author>fekete2</author>
+<date>2014-09-26T15:55:26.452392Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.2</path>
+</paths>
+<msg>1.2</msg>
+</logentry>
+<logentry
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/242Chess.iml</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/GUI Test Plan.odt</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/GUI Test Plan.pdf</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/out</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/out/production</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/out/production/242Chess</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/out/production/242Chess/Game</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Game/BoardUI.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Game/GameLogic.class</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/out/production/242Chess/Resources</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/Black_Rook.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_Queen.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/Resources/White_Rook.png</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Board.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/King.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Knight.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Piece.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Queen.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Rook.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Shifter.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/SmoothTalker.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/board/Square.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/BoardTest2.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/RookTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/ShifterTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/out/production/242Chess/testCases/SmoothTalkerTest.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/src/Game</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Game/BoardUI.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Game/GameLogic.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/src/Resources</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_Bishop.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_King.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_Knight.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_Pawn.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_Queen.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/Black_Rook.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_Bishop.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_King.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_Knight.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_Pawn.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_Queen.png</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/Resources/White_Rook.png</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/src/board</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Board.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/King.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Knight.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Queen.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Rook.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Shifter.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/SmoothTalker.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/board/Square.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/src/testCases</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/BoardTest2.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/ShifterTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/src/testCases/SmoothTalkerTest.java</path>
+</paths>
+<msg>1.1</msg>
+</logentry>
+<logentry
+   revision="4564">
+<author>fekete2</author>
+<date>2014-09-20T00:40:18.490460Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1</path>
+</paths>
+<msg>1.1</msg>
+</logentry>
+<logentry
+   revision="4557">
+<author>fekete2</author>
+<date>2014-09-20T00:13:11.907182Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/fekete2/Assignment1.1</path>
+</paths>
+<msg>clear</msg>
+</logentry>
+<logentry
+   revision="4556">
+<author>fekete2</author>
+<date>2014-09-20T00:10:43.398998Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/copyright</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.1/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.1/workspace.xml</path>
+</paths>
+<msg>1.1</msg>
+</logentry>
+<logentry
+   revision="4555">
+<author>fekete2</author>
+<date>2014-09-20T00:10:16.238757Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/Game</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Game/BoardUI.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Game/GameLogic.java</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/Resources</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/Black_Rook.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/Resources/White_Rook.png</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/board</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Board.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/King.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Knight.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Piece.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Queen.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Rook.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Shifter.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/SmoothTalker.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/board/Square.java</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1/testCases</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/BoardTest2.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/ShifterTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment1.1/testCases/SmoothTalkerTest.java</path>
+</paths>
+<msg>1.1</msg>
+</logentry>
+<logentry
+   revision="4552">
+<author>fekete2</author>
+<date>2014-09-19T23:54:54.214753Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.1</path>
+</paths>
+<msg>1.1</msg>
+</logentry>
+<logentry
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/Game/BoardUI.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/Game/GameLogic.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Board.java</path>
+</paths>
+<msg>Refractored a bit</msg>
+</logentry>
+<logentry
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/Doxyfile</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess2/src/Game</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Game/BoardUI.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Game/GameLogic.java</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess2/src/Resources</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/Black_Rook.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_Bishop.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_King.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_Knight.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_Pawn.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_Queen.png</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/Resources/White_Rook.png</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Board.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/BoardTest2.java</path>
+</paths>
+<msg>GUI working</msg>
+</logentry>
+<logentry
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Board.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/King.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Knight.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Piece.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Queen.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/board/Rook.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/board/Shifter.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/board/SmoothTalker.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/BishopTest.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/BoardTest2.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/KingTest.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/PawnTest.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/QueenTest.java</path>
+<path
+   action="M"
+   kind="file">/fekete2/chess2/src/testCases/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/testCases/ShifterTest.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess2/src/testCases/SmoothTalkerTest.java</path>
+</paths>
+<msg>Fixed stuff and added 2 new pieces</msg>
+</logentry>
+<logentry
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Board.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/src/board</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Board.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/King.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Knight.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Queen.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Rook.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/board/Square.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/src/testCases</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/BoardTest2.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/testCases/RookTest.java</path>
+</paths>
+<msg>Added packages</msg>
+</logentry>
+<logentry
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/242Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/out</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/out/production</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/BoardTest2.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/King.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/PieceTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/RookTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/out/production/242Chess/Square.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/BoardTest2.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/King.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment1.0/src/Square.java</path>
+</paths>
+<msg>assignment1.0</msg>
+</logentry>
+<logentry
+   revision="2989">
+<author>fekete2</author>
+<date>2014-09-12T19:44:35.528237Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment1.0</path>
+</paths>
+<msg>assignment1</msg>
+</logentry>
+<logentry
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Board.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/BoardTest2.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/King.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/PieceTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Queen.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/RookTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/BoardTest2.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Square.java</path>
+</paths>
+<msg>Should be working</msg>
+</logentry>
+<logentry
+   revision="2098">
+<author>fekete2</author>
+<date>2014-09-09T02:45:46.728844Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Board.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/BoardTest2.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/King.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/KingTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/out/production/242Chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Board.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/BoardTest2.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/King.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/fekete2/chess2/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/QueenTest.java</path>
+</paths>
+<msg>stuff done</msg>
+</logentry>
+<logentry
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/242Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/out</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/out/production</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/out/production/242Chess</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/BoardTest2.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/King.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/out/production/242Chess/Square.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess2/src</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/BoardTest2.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/King.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess2/src/Square.java</path>
+</paths>
+<msg>importing chess project</msg>
+</logentry>
+<logentry
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/chess</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess/.idea</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/fekete2/chess/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/chess/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/242Chess.iml</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess/out</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess/out/production/242Chess</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/out/production/242Chess/Board.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/out/production/242Chess/BoardTest2.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/out/production/242Chess/King.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/out/production/242Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/out/production/242Chess/Square.class</path>
+<path
+   action="A"
+   kind="dir">/fekete2/chess/src</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/src/BoardTest2.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/src/King.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/src/Piece.java</path>
+<path
+   action="A"
+   kind="file">/fekete2/chess/src/Square.java</path>
+</paths>
+<msg>importing chess project</msg>
+</logentry>
+<logentry
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/.cproject</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/.project</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment0/.settings</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/Makefile</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parmake.c</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parmake.exe</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parmake.exe.stackdump</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parmake.o</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parser.c</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parser.h</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/parser.o</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/queue.c</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/queue.h</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/queue.o</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/rule.c</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/rule.h</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/rule.o</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile1</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile2</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile3</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile4</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile5</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/testfile6</path>
+</paths>
+<msg>segfaults for some reason</msg>
+</logentry>
+<logentry
+   revision="535">
+<author>fekete2</author>
+<date>2014-09-04T01:34:34.173153Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/.cproject</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/.project</path>
+<path
+   action="D"
+   kind="dir">/fekete2/Assignment0/.settings</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/Makefile</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/log.c</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/log.h</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/log.o</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/shell.c</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/shell.exe</path>
+</paths>
+<msg>not over 400 lines</msg>
+</logentry>
+<logentry
+   revision="528">
+<author>fekete2</author>
+<date>2014-09-04T01:30:38.972093Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/.cproject</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/.project</path>
+<path
+   action="A"
+   kind="dir">/fekete2/Assignment0/.settings</path>
+<path
+   action="M"
+   kind="file">/fekete2/Assignment0/Makefile</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/log.o</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/shell.exe</path>
+</paths>
+<msg>Project built and doxygen gen removed</msg>
+</logentry>
+<logentry
+   revision="455">
+<author>fekete2</author>
+<date>2014-09-04T00:38:38.905185Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/Makefile</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/log.c</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/log.h</path>
+<path
+   action="A"
+   kind="file">/fekete2/Assignment0/shell.c</path>
+</paths>
+<msg>mp3 from cs241</msg>
+</logentry>
+<logentry
+   revision="444">
+<author>fekete2</author>
+<date>2014-09-04T00:32:15.736344Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/.classpath</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/.project</path>
+<path
+   action="D"
+   kind="dir">/fekete2/Assignment0/.settings</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/COPYING</path>
+<path
+   action="D"
+   kind="dir">/fekete2/Assignment0/bin</path>
+<path
+   action="D"
+   kind="dir">/fekete2/Assignment0/doc</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/expectedOutput.txt</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/javadoc.xml</path>
+<path
+   action="D"
+   kind="dir">/fekete2/Assignment0/src</path>
+<path
+   action="D"
+   kind="file">/fekete2/Assignment0/useOutput.txt</path>
+</paths>
+<msg>Deleted hw0 from assignment1 folder</msg>
+</logentry>
+<logentry
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/HW0/useOutput.txt</path>
+</paths>
+<msg>Commit files</msg>
+</logentry>
+<logentry
+   revision="417">
+<author>fekete2</author>
+<date>2014-09-04T00:05:46.012227Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/HW0</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="412">
+<author>fekete2</author>
+<date>2014-09-03T23:59:40.088998Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/.classpath</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/.project</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/.settings</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/bin</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/doc/README</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/fekete2/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/fekete2/Assignment0/useOutput.txt</path>
+</paths>
+<msg>importing hw0</msg>
+</logentry>
+<logentry
+   revision="362">
+<author>fekete2</author>
+<date>2014-09-03T22:50:58.559040Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/fekete2/grocery</path>
+<path
+   kind="dir"
+   copyfrom-path="/fekete2/grocery"
+   copyfrom-rev="361"
+   action="A">/fekete2/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="361">
+<author>fekete2</author>
+<date>2014-09-03T22:49:05.363116Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/fekete2/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="360">
+<author>fekete2</author>
+<date>2014-09-03T22:48:22.911105Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/fekete2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="359">
+<author>fekete2</author>
+<date>2014-09-03T22:47:16.183870Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="357">
+<author>fekete2</author>
+<date>2014-09-03T22:44:25.511409Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="355">
+<author>fekete2</author>
+<date>2014-09-03T22:43:21.876834Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable
+</msg>
+</logentry>
+<logentry
+   revision="352">
+<author>fekete2</author>
+<date>2014-09-03T22:42:13.367899Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="349">
+<author>fekete2</author>
+<date>2014-09-03T22:39:21.747394Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="344">
+<author>fekete2</author>
+<date>2014-09-03T22:37:09.187609Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/fekete2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="329">
+<author>fekete2</author>
+<date>2014-09-03T22:31:17.272595Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/grocery</path>
+<path
+   kind="file"
+   action="A">/fekete2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/fekete2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="45">
+<author>root</author>
+<date>2014-09-02T17:45:16.260334Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2</path>
+</paths>
+<msg>created directory fekete2</msg>
+</logentry>
+</log>

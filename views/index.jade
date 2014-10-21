@@ -1,0 +1,13 @@
+//
+   Created by Alec on 10/20/2014.
+html
+    head
+        title!= title
+    body
+        h1!= message
+        p!= svn_log
+        each project, title in project_list
+            p!= title
+            p!= project.date
+            p!= project.version
+            br

@@ -1,8 +1,8 @@
 {
-  "name": "CS242_3.0",
+  "name": "CS242_Assignment3",
   "version": "1.0.0",
   "description": "Portfolio web app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/afekete/CS242_Assignment3",
   "dependencies": {
-    "express": "^4.9.8"
+    "express": "^4.9.8",
+    "jade": "^1.7.0",
+    "xml2js": "^0.4.4"
   }
 }

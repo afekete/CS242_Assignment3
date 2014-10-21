@@ -1,0 +1,5269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.cproject</name>
+<size>4404</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.project</name>
+<size>789</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.settings</name>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Makefile</name>
+<size>509</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parmake.c</name>
+<size>15479</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parmake.exe</name>
+<size>100793</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parmake.exe.stackdump</name>
+<size>1456</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parmake.o</name>
+<size>17836</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parser.c</name>
+<size>7468</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parser.h</name>
+<size>311</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parser.o</name>
+<size>13707</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/queue.c</name>
+<size>3634</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/queue.h</name>
+<size>622</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/queue.o</name>
+<size>5340</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/rule.c</name>
+<size>686</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/rule.h</name>
+<size>323</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/rule.o</name>
+<size>3165</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile1</name>
+<size>11</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile2</name>
+<size>39</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile3</name>
+<size>442</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile4</name>
+<size>1150</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile5</name>
+<size>767</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/testfile6</name>
+<size>142</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>8</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>396</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>267</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/scopes</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>54980</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/242Chess.iml</name>
+<size>940</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/242Chess</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Bishop.class</name>
+<size>621</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/BishopTest.class</name>
+<size>781</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Board.class</name>
+<size>5274</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/BoardTest2.class</name>
+<size>2936</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/King.class</name>
+<size>692</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/KingTest.class</name>
+<size>722</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Knight.class</name>
+<size>607</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/KnightTest.class</name>
+<size>821</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Pawn.class</name>
+<size>965</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/PawnTest.class</name>
+<size>1225</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Piece.class</name>
+<size>1822</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/PieceTest.class</name>
+<size>742</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Queen.class</name>
+<size>630</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/QueenTest.class</name>
+<size>795</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Rook.class</name>
+<size>568</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/RookTest.class</name>
+<size>757</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/242Chess/Square.class</name>
+<size>496</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Bishop.java</name>
+<size>709</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/BishopTest.java</name>
+<size>556</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Board.java</name>
+<size>8819</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/BoardTest2.java</name>
+<size>3889</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/King.java</name>
+<size>826</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/KingTest.java</name>
+<size>383</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Knight.java</name>
+<size>807</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/KnightTest.java</name>
+<size>439</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pawn.java</name>
+<size>2091</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/PawnTest.java</name>
+<size>1388</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Piece.java</name>
+<size>2660</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/PieceTest.java</name>
+<size>469</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Queen.java</name>
+<size>803</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/QueenTest.java</name>
+<size>599</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Rook.java</name>
+<size>710</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/RookTest.java</name>
+<size>490</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Square.java</name>
+<size>401</size>
+<commit
+   revision="2990">
+<author>fekete2</author>
+<date>2014-09-12T19:45:34.918672Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>8</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>396</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>267</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/scopes</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>65382</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/242Chess.iml</name>
+<size>940</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>104427</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/GUI Test Plan.odt</name>
+<size>128912</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/GUI Test Plan.pdf</name>
+<size>152804</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/242Chess</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/242Chess/Game</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Game/BoardUI.class</name>
+<size>5291</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Game/GameLogic.class</name>
+<size>1365</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/242Chess/Resources</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_Bishop.png</name>
+<size>1260</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_King.png</name>
+<size>2485</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_Knight.png</name>
+<size>1516</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_Pawn.png</name>
+<size>797</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_Queen.png</name>
+<size>2267</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/Black_Rook.png</name>
+<size>725</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_Bishop.png</name>
+<size>1944</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_King.png</name>
+<size>2279</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_Knight.png</name>
+<size>1878</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_Pawn.png</name>
+<size>1294</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_Queen.png</name>
+<size>2637</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/Resources/White_Rook.png</name>
+<size>933</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/242Chess/board</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Bishop.class</name>
+<size>564</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Board.class</name>
+<size>8069</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/King.class</name>
+<size>559</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Knight.class</name>
+<size>592</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Pawn.class</name>
+<size>817</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Piece.class</name>
+<size>1096</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Queen.class</name>
+<size>573</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Rook.class</name>
+<size>511</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Shifter.class</name>
+<size>639</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/SmoothTalker.class</name>
+<size>644</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/board/Square.class</name>
+<size>526</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/242Chess/testCases</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/BishopTest.class</name>
+<size>829</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/BoardTest2.class</name>
+<size>3811</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/KingTest.class</name>
+<size>770</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/KnightTest.class</name>
+<size>863</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/PawnTest.class</name>
+<size>1009</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/QueenTest.class</name>
+<size>843</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/RookTest.class</name>
+<size>805</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/ShifterTest.class</name>
+<size>611</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/242Chess/testCases/SmoothTalkerTest.class</name>
+<size>634</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Game</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Game/BoardUI.java</name>
+<size>5281</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Game/GameLogic.java</name>
+<size>948</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Resources</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_Bishop.png</name>
+<size>1260</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_King.png</name>
+<size>2485</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_Knight.png</name>
+<size>1516</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_Pawn.png</name>
+<size>797</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_Queen.png</name>
+<size>2267</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/Black_Rook.png</name>
+<size>725</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_Bishop.png</name>
+<size>1944</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_King.png</name>
+<size>2279</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_Knight.png</name>
+<size>1878</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_Pawn.png</name>
+<size>1294</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_Queen.png</name>
+<size>2637</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Resources/White_Rook.png</name>
+<size>933</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/board</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Bishop.java</name>
+<size>678</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Board.java</name>
+<size>16534</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/King.java</name>
+<size>685</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Knight.java</name>
+<size>832</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Pawn.java</name>
+<size>1910</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Piece.java</name>
+<size>1819</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Queen.java</name>
+<size>778</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Rook.java</name>
+<size>685</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Shifter.java</name>
+<size>642</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/SmoothTalker.java</name>
+<size>954</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Square.java</name>
+<size>419</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/testCases</name>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/BishopTest.java</name>
+<size>633</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/BoardTest2.java</name>
+<size>5072</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/KingTest.java</name>
+<size>443</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/KnightTest.java</name>
+<size>501</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/PawnTest.java</name>
+<size>1034</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/QueenTest.java</name>
+<size>660</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/RookTest.java</name>
+<size>550</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/ShifterTest.java</name>
+<size>396</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/testCases/SmoothTalkerTest.java</name>
+<size>416</size>
+<commit
+   revision="4565">
+<author>fekete2</author>
+<date>2014-09-20T00:41:00.924362Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>8</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/copyright</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>396</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>267</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/scopes</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>64619</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/242Chess.iml</name>
+<size>940</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/GUI Test Plan.pdf</name>
+<size>484981</size>
+<commit
+   revision="5408">
+<author>fekete2</author>
+<date>2014-09-27T18:17:16.182127Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/242Chess</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/242Chess/Game</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Game/BoardUI.class</name>
+<size>7382</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Game/GameLogic.class</name>
+<size>4755</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/242Chess/Resources</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_Bishop.png</name>
+<size>1260</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_King.png</name>
+<size>2485</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_Knight.png</name>
+<size>1516</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_Pawn.png</name>
+<size>797</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_Queen.png</name>
+<size>2267</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/Black_Rook.png</name>
+<size>725</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_Bishop.png</name>
+<size>1944</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_King.png</name>
+<size>2279</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_Knight.png</name>
+<size>1878</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_Pawn.png</name>
+<size>1294</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_Queen.png</name>
+<size>2637</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/Resources/White_Rook.png</name>
+<size>933</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/242Chess/board</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Bishop.class</name>
+<size>564</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Board.class</name>
+<size>8911</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/King.class</name>
+<size>559</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Knight.class</name>
+<size>592</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Pawn.class</name>
+<size>822</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Piece.class</name>
+<size>1096</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Queen.class</name>
+<size>573</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Rook.class</name>
+<size>511</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Shifter.class</name>
+<size>639</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/SmoothTalker.class</name>
+<size>644</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/board/Square.class</name>
+<size>526</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/242Chess/testCases</name>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/BishopTest.class</name>
+<size>829</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/BoardTest2.class</name>
+<size>3795</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/KingTest.class</name>
+<size>770</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/KnightTest.class</name>
+<size>863</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/PawnTest.class</name>
+<size>992</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/QueenTest.class</name>
+<size>843</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/RookTest.class</name>
+<size>805</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/ShifterTest.class</name>
+<size>611</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/242Chess/testCases/SmoothTalkerTest.class</name>
+<size>634</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Game</name>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Game/BoardUI.java</name>
+<size>9634</size>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Game/GameLogic.java</name>
+<size>6650</size>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Resources</name>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Bishop.png</name>
+<size>1260</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_King.png</name>
+<size>2485</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Knight.png</name>
+<size>1516</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Pawn.png</name>
+<size>797</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Queen.png</name>
+<size>2267</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Rook.png</name>
+<size>725</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_Shifter.png</name>
+<size>2385</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/Black_SmoothTalker.png</name>
+<size>1307</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Bishop.png</name>
+<size>1944</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_King.png</name>
+<size>2279</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Knight.png</name>
+<size>1878</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Pawn.png</name>
+<size>1294</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Queen.png</name>
+<size>2637</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Rook.png</name>
+<size>933</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_Shifter.png</name>
+<size>2217</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Resources/White_SmoothTalker.png</name>
+<size>1961</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/board</name>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Bishop.java</name>
+<size>678</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Board.java</name>
+<size>22458</size>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/King.java</name>
+<size>685</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Knight.java</name>
+<size>832</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Pawn.java</name>
+<size>1971</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Piece.java</name>
+<size>1753</size>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Queen.java</name>
+<size>778</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Rook.java</name>
+<size>685</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Shifter.java</name>
+<size>820</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/SmoothTalker.java</name>
+<size>847</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Square.java</name>
+<size>419</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/testCases</name>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/BishopTest.java</name>
+<size>633</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/BoardTest2.java</name>
+<size>5660</size>
+<commit
+   revision="5360">
+<author>fekete2</author>
+<date>2014-09-26T22:19:50.503454Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/BoardUITest.java</name>
+<size>357</size>
+<commit
+   revision="5409">
+<author>fekete2</author>
+<date>2014-09-27T18:20:30.278713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/KingTest.java</name>
+<size>443</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/KnightTest.java</name>
+<size>501</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/PawnTest.java</name>
+<size>954</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/QueenTest.java</name>
+<size>660</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/RookTest.java</name>
+<size>550</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/ShifterTest.java</name>
+<size>396</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/testCases/SmoothTalkerTest.java</name>
+<size>416</size>
+<commit
+   revision="5251">
+<author>fekete2</author>
+<date>2014-09-26T15:56:48.394708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="5655">
+<author>fekete2</author>
+<date>2014-10-02T03:33:28.010103Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/CSAir.iml</name>
+<size>2914</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>132</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/runConfigurations</name>
+<commit
+   revision="5655">
+<author>fekete2</author>
+<date>2014-10-02T03:33:28.010103Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/runConfigurations/graph.xml</name>
+<size>1213</size>
+<commit
+   revision="5655">
+<author>fekete2</author>
+<date>2014-10-02T03:33:28.010103Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/scopes</name>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>28018</size>
+<commit
+   revision="5644">
+<author>fekete2</author>
+<date>2014-10-02T03:05:42.346345Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/air_stat_funcs.rb</name>
+<size>3895</size>
+<commit
+   revision="5914">
+<author>fekete2</author>
+<date>2014-10-03T00:23:24.452876Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/air_stat_funcs_test.rb</name>
+<size>1118</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/cmd_interface.rb</name>
+<size>4703</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/cmd_interface_test.rb</name>
+<size>476</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/edge.rb</name>
+<size>371</size>
+<commit
+   revision="5914">
+<author>fekete2</author>
+<date>2014-10-03T00:23:24.452876Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/edge_test.rb</name>
+<size>614</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph.rb</name>
+<size>1229</size>
+<commit
+   revision="5914">
+<author>fekete2</author>
+<date>2014-10-03T00:23:24.452876Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph_test.rb</name>
+<size>578</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="5474">
+<author>fekete2</author>
+<date>2014-09-30T04:52:28.056277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/node.rb</name>
+<size>261</size>
+<commit
+   revision="5914">
+<author>fekete2</author>
+<date>2014-10-03T00:23:24.452876Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/node_test.rb</name>
+<size>484</size>
+<commit
+   revision="5973">
+<author>fekete2</author>
+<date>2014-10-03T05:48:51.085762Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7604">
+<author>fekete2</author>
+<date>2014-10-19T05:32:27.653779Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/CSAir.iml</name>
+<size>10141</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>132</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/runConfigurations</name>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/runConfigurations/graph.xml</name>
+<size>1219</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/scopes</name>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>61950</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Manual test plan.pdf</name>
+<size>820122</size>
+<commit
+   revision="7604">
+<author>fekete2</author>
+<date>2014-10-19T05:32:27.653779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/cmi_hub.json</name>
+<size>1103</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/graph</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph/air_stat_funcs.rb</name>
+<size>4086</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph/edge.rb</name>
+<size>408</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph/flight_graph.rb</name>
+<size>18660</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph/graph.rb</name>
+<size>1355</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph/node.rb</name>
+<size>525</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/interfaces</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/cmd_interface.rb</name>
+<size>8730</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/interfaces/public</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/interfaces/public/css</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/public/css/styles.css</name>
+<size>195</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/interfaces/public/js</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/public/js/open_window.js</name>
+<size>829</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/public/js/select_from_table.js</name>
+<size>1024</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/interfaces/views</name>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/views/city_info.erb</name>
+<size>366</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/views/index.erb</name>
+<size>6303</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/views/map.erb</name>
+<size>231</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/views/route.erb</name>
+<size>303</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/views/statistics.erb</name>
+<size>1259</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfaces/web_interface.rb</name>
+<size>7162</size>
+<commit
+   revision="7525">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="6315">
+<author>fekete2</author>
+<date>2014-10-08T16:50:47.648786Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/tests</name>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/air_stat_funcs_test.rb</name>
+<size>1153</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/cmd_interface_test.rb</name>
+<size>486</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/edge_test.rb</name>
+<size>630</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/flight_graph_test.rb</name>
+<size>2575</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/graph_test.rb</name>
+<size>585</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/tests/node_test.rb</name>
+<size>492</size>
+<commit
+   revision="6332">
+<author>fekete2</author>
+<date>2014-10-08T21:47:36.337386Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/.idea</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/CSAir.iml</name>
+<size>10141</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/misc.xml</name>
+<size>132</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/.idea/runConfigurations</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/runConfigurations/graph.xml</name>
+<size>1219</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/.idea/scopes</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/.idea/workspace.xml</name>
+<size>61950</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/cmi_hub.json</name>
+<size>1103</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/graph</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/graph/air_stat_funcs.rb</name>
+<size>4086</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/graph/edge.rb</name>
+<size>408</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/graph/flight_graph.rb</name>
+<size>18660</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/graph/graph.rb</name>
+<size>1355</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/graph/node.rb</name>
+<size>525</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/interfaces</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/cmd_interface.rb</name>
+<size>8730</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/interfaces/public</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/interfaces/public/css</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/public/css/styles.css</name>
+<size>195</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/interfaces/public/js</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/public/js/open_window.js</name>
+<size>829</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/public/js/select_from_table.js</name>
+<size>1024</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/interfaces/views</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/views/city_info.erb</name>
+<size>366</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/views/index.erb</name>
+<size>6303</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/views/map.erb</name>
+<size>231</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/views/route.erb</name>
+<size>303</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/views/statistics.erb</name>
+<size>1259</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/interfaces/web_interface.rb</name>
+<size>7162</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.2/tests</name>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/air_stat_funcs_test.rb</name>
+<size>1153</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/cmd_interface_test.rb</name>
+<size>486</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/edge_test.rb</name>
+<size>630</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/flight_graph_test.rb</name>
+<size>2575</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/graph_test.rb</name>
+<size>585</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.2/tests/node_test.rb</name>
+<size>492</size>
+<commit
+   revision="7561">
+<author>fekete2</author>
+<date>2014-10-17T23:55:53.939489Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>13403</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>2406</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="420">
+<author>fekete2</author>
+<date>2014-09-04T00:07:39.512733Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/.idea</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/.name</name>
+<size>8</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/.idea/copyright</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/misc.xml</name>
+<size>396</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/modules.xml</name>
+<size>267</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/.idea/scopes</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/.idea/workspace.xml</name>
+<size>30886</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/242Chess.iml</name>
+<size>940</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/out</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/out/production</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/out/production/242Chess</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/out/production/242Chess/Board.class</name>
+<size>1555</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/out/production/242Chess/BoardTest2.class</name>
+<size>898</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/out/production/242Chess/King.class</name>
+<size>509</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/out/production/242Chess/Piece.class</name>
+<size>523</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/out/production/242Chess/Square.class</name>
+<size>496</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess/src</name>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/src/Board.java</name>
+<size>2015</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/src/BoardTest2.java</name>
+<size>623</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/src/King.java</name>
+<size>640</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/src/Piece.java</name>
+<size>513</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess/src/Square.java</name>
+<size>364</size>
+<commit
+   revision="2076">
+<author>fekete2</author>
+<date>2014-09-08T22:38:28.189440Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2</name>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/.idea</name>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/.name</name>
+<size>8</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/.idea/copyright</name>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/misc.xml</name>
+<size>396</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/modules.xml</name>
+<size>267</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/.idea/scopes</name>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/vcs.xml</name>
+<size>173</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/.idea/workspace.xml</name>
+<size>64183</size>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/242Chess.iml</name>
+<size>940</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/Doxyfile</name>
+<size>104427</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/out</name>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/out/production</name>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/out/production/242Chess</name>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Bishop.class</name>
+<size>621</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/BishopTest.class</name>
+<size>781</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Board.class</name>
+<size>5274</size>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/BoardTest2.class</name>
+<size>2936</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/King.class</name>
+<size>692</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/KingTest.class</name>
+<size>722</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Knight.class</name>
+<size>607</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/KnightTest.class</name>
+<size>821</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Pawn.class</name>
+<size>965</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/PawnTest.class</name>
+<size>1225</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Piece.class</name>
+<size>1822</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/PieceTest.class</name>
+<size>742</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Queen.class</name>
+<size>630</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/QueenTest.class</name>
+<size>795</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Rook.class</name>
+<size>568</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/RookTest.class</name>
+<size>757</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/out/production/242Chess/Square.class</name>
+<size>496</size>
+<commit
+   revision="2094">
+<author>fekete2</author>
+<date>2014-09-08T23:44:01.292161Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/src</name>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Bishop.java</name>
+<size>709</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/BishopTest.java</name>
+<size>556</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Board.java</name>
+<size>8819</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/BoardTest2.java</name>
+<size>3889</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/src/Game</name>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Game/BoardUI.java</name>
+<size>3297</size>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Game/GameLogic.java</name>
+<size>2684</size>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/King.java</name>
+<size>826</size>
+<commit
+   revision="2098">
+<author>fekete2</author>
+<date>2014-09-09T02:45:46.728844Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/KingTest.java</name>
+<size>383</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Knight.java</name>
+<size>807</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/KnightTest.java</name>
+<size>439</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Pawn.java</name>
+<size>2091</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/PawnTest.java</name>
+<size>1388</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Piece.java</name>
+<size>2660</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/PieceTest.java</name>
+<size>469</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Queen.java</name>
+<size>803</size>
+<commit
+   revision="2098">
+<author>fekete2</author>
+<date>2014-09-09T02:45:46.728844Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/QueenTest.java</name>
+<size>599</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/src/Resources</name>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_Bishop.png</name>
+<size>1260</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_King.png</name>
+<size>2485</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_Knight.png</name>
+<size>1516</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_Pawn.png</name>
+<size>797</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_Queen.png</name>
+<size>2267</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/Black_Rook.png</name>
+<size>725</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_Bishop.png</name>
+<size>1944</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_King.png</name>
+<size>2279</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_Knight.png</name>
+<size>1878</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_Pawn.png</name>
+<size>1294</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_Queen.png</name>
+<size>2637</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Resources/White_Rook.png</name>
+<size>933</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Rook.java</name>
+<size>710</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/RookTest.java</name>
+<size>490</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/Square.java</name>
+<size>401</size>
+<commit
+   revision="2231">
+<author>fekete2</author>
+<date>2014-09-10T16:18:35.541933Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/src/board</name>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Bishop.java</name>
+<size>678</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Board.java</name>
+<size>16534</size>
+<commit
+   revision="4474">
+<author>fekete2</author>
+<date>2014-09-19T20:59:06.606805Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/King.java</name>
+<size>685</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Knight.java</name>
+<size>832</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Pawn.java</name>
+<size>1910</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Piece.java</name>
+<size>1819</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Queen.java</name>
+<size>778</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Rook.java</name>
+<size>685</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Shifter.java</name>
+<size>642</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/SmoothTalker.java</name>
+<size>954</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/board/Square.java</name>
+<size>419</size>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chess2/src/testCases</name>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/BishopTest.java</name>
+<size>633</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/BoardTest2.java</name>
+<size>5072</size>
+<commit
+   revision="3586">
+<author>fekete2</author>
+<date>2014-09-18T03:01:58.342451Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/KingTest.java</name>
+<size>443</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/KnightTest.java</name>
+<size>501</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/PawnTest.java</name>
+<size>1034</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/PieceTest.java</name>
+<size>533</size>
+<commit
+   revision="3376">
+<author>fekete2</author>
+<date>2014-09-17T02:30:18.384803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/QueenTest.java</name>
+<size>660</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/RookTest.java</name>
+<size>550</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/ShifterTest.java</name>
+<size>396</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chess2/src/testCases/SmoothTalkerTest.java</name>
+<size>416</size>
+<commit
+   revision="3433">
+<author>fekete2</author>
+<date>2014-09-17T06:48:06.982509Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="362">
+<author>fekete2</author>
+<date>2014-09-03T22:50:58.559040Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="344">
+<author>fekete2</author>
+<date>2014-09-03T22:37:09.187609Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>75</size>
+<commit
+   revision="359">
+<author>fekete2</author>
+<date>2014-09-03T22:47:16.183870Z</date>
+</commit>
+</entry>
+</list>
+</lists>
