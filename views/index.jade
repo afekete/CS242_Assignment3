@@ -11,7 +11,8 @@ html
             $(function() {
                 $( "#accordion" ).accordion({
                     collapsible: true,
-                    heightStyle: "fill"
+                    heightStyle: "content",
+                    active: false
                 });
             });
     body
@@ -20,13 +21,14 @@ html
             each project, title in project_list
                 h3!= title
                 div
-                    li!= 'Date: ' + project.date
-                    li!= 'Revision ' + project.version
-                    li!= 'Message: ' + project.summary
-                    li files
-                        ul
-                            each file, name in project.files
-                                li!= name
+                    p!= 'Date: ' + project.date
+                    p!= 'Revision ' + project.version
+                    p!= 'Message: ' + project.summary
+                    p Files
+                    ul
+                        each file, name in project.files
+                            li!= name
+                                div
                                     ul
                                         li!= file.size + ' Bytes'
                                         li!= 'Type: ' + file.type

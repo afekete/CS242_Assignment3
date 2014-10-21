@@ -6,4 +6,4 @@ exports.File = function (size, type, path, versions) {
     this.type = type;
     this.path = path;
     this.versions = versions;
-}
+};

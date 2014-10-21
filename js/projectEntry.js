@@ -8,4 +8,4 @@ exports.Project = function(title, date, version, summary, files) {
     this.version = version;
     this.summary = summary;
     this.files = files;
-}
+};
