@@ -24,7 +24,7 @@ async.parallel([
         fs.readFile(__dirname + '/svn_log.xml', function (err, data) {
             log_parser.parseString(data, function (err, result) {
                 svn_log = result;
-                console.log(util.inspect(result.log.logentry[0], false, null));
+                console.log(util.inspect(result.log.logentry, false, null));
                 callback(0, null)
             })
         });
@@ -43,7 +43,7 @@ app.get('/', function (req, res) {
 	res.render('index', { title: 'CS242 Portfolio', project_list: project_list, svn_log: svn_log.log.logentry[0].msg})
 });
 
-var server = app.listen(process.env.PORT || 5000, function () {
+var server = app.listen(process.env.PORT || 4567, function () {
 	var host = server.address().address;
 	var port = server.address().port;
 

@@ -6,7 +6,7 @@ var file = require('./fileEntry.js');
 
 exports.list_parser = function (parsedXml, projects) {
     parsedXml.forEach(function (element, index, array) {
-        var name = getProjectName(String(element.name));
+        var name = getProjectName(String(element.name), 0);
         if(!(name in projects)) {
             projects[name] = new project.Project(name, element.commit[0].date, element.commit[0].$.revision, null, {});
         }
@@ -29,12 +29,20 @@ exports.list_parser = function (parsedXml, projects) {
 
 exports.log_parser = function (parsedXml, projects) {
     parsedXml.forEach(function (element, index, array) {
-        var projectName = getProjectName(String(element.paths));
+        var projectName = getProjectName(String(element.paths[0].path[0]._), 2);
+        if(projects[projectName].version == element.$.revision) {
+            projects[projectName].summary = element.msg
+        }
+        element.paths[0].path.forEach(function (element, index, array) {
+            var currFile = projects[projectName].files[getFilename(element._)];
+            //TODO add version info to file
+            //currFile.versions
+        })
     })
 };
 
-function getProjectName (name) {
-    return name.split("/")[0];
+function getProjectName (name, index) {
+    return name.split("/")[index];
 }
 
 function getFiletype (file) {
