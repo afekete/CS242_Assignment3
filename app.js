@@ -12,7 +12,8 @@ var project_list = {};
 fs.readFile(__dirname + '/svn_list.xml', function (err, data) {
     list_parser.parseString(data, function (err, result) {
         svn_list = result;
-        console.log(util.inspect(result.lists.list[0].entry[0], false, null));
+        //console.log(util.inspect(result.lists.list[0].entry[1], false, null));
+        console.log(util.inspect(result.lists.list[0], false, null));
         project_list = parse.list_parser(result.lists.list[0].entry, project_list)
     })
 });
@@ -28,7 +29,7 @@ app.set('views', './views');
 app.set('view engine', 'jade');
 
 app.get('/', function (req, res) {
-	res.render('index', { title: 'CS242 Portfolio', message: 'Hi world', project_list: project_list, svn_log: svn_log.log.logentry[0].msg})
+	res.render('index', { title: 'CS242 Portfolio', project_list: project_list, svn_log: svn_log.log.logentry[0].msg})
 });
 
 var server = app.listen(4567, function () {

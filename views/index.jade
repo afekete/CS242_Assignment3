@@ -4,10 +4,18 @@ html
     head
         title!= title
     body
-        h1!= message
-        p!= svn_log
-        each project, title in project_list
-            p!= title
-            p!= project.date
-            p!= project.version
-            br
+        h1 Projects:
+        ul
+            each project, title in project_list
+                li!= title
+                li!= 'Date: ' + project.date
+                li!= 'Revision ' + project.version
+                li files
+                    ul
+                        each file, name in project.files
+                            li!= name
+                                ul
+                                    li!= file.size + ' Bytes'
+                                    li!= 'Type: ' + file.type
+                                    li!= file.path
+                br
