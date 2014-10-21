@@ -27,6 +27,12 @@ exports.list_parser = function (parsedXml, projects) {
     return projects
 };
 
+exports.log_parser = function (parsedXml, projects) {
+    parsedXml.forEach(function (element, index, array) {
+        var projectName = getProjectName(String(element.paths));
+    })
+};
+
 function getProjectName (name) {
     return name.split("/")[0];
 }
