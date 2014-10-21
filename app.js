@@ -43,7 +43,7 @@ app.get('/', function (req, res) {
 	res.render('index', { title: 'CS242 Portfolio', project_list: project_list, svn_log: svn_log.log.logentry[0].msg})
 });
 
-var server = app.listen(4567, function () {
+var server = app.listen(process.env.PORT || 5000, function () {
 	var host = server.address().address;
 	var port = server.address().port;
 
