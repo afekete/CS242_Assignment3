@@ -60,7 +60,7 @@ html
                                         a.list-group-item.disabled!= file.path
                                         if file.type == '.pdf'
                                             //may not work with built in chrome pdf viewer. Adobe plugin works.
-                                            embed(src='about:blank' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' width='500' height='500')
+                                            embed(src='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' width='500' height='500')
                                         else if file.type == '.png'
                                             img(src='about:blank' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path alt='picture')
                                         else if file.type == '.o' || file.type == '.class' || file.type == '.exe' || file.type == '.odt'
