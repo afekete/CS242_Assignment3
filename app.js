@@ -23,7 +23,6 @@ async.parallel([
         fs.readFile(__dirname + '/svn_list.xml', function (err, data) {
             list_parser.parseString(data, function (err, result) {
                 svn_list = result;
-                //console.log(util.inspect(result, false, null));
                 callback(0, null)
             })
         });
@@ -32,7 +31,6 @@ async.parallel([
         fs.readFile(__dirname + '/svn_log.xml', function (err, data) {
             log_parser.parseString(data, function (err, result) {
                 svn_log = result;
-                //console.log(util.inspect(result.log.logentry[0], false, null));
                 callback(0, null)
             })
         });
@@ -48,8 +46,8 @@ function(err, results) {
 app.set('views', './views');
 app.set('view engine', 'jade');
 
+// Set up middleware (tell html5 boilerplate where html will be, set which folders serve static content)
 app.use(h5bp({ root: __dirname + '/views' }));
-//app.use(express.compress());
 app.use(express.static(__dirname + '/views'));
 app.use(express.static(__dirname + '/public'));
 

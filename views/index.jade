@@ -5,11 +5,6 @@ html
         title!= title
         meta(name='description' content='')
         meta(name='viewport' content='width=device-width, initial-scale=1')
-        //-
-            script(src='//code.jquery.com/jquery-1.11.0.min.js')
-            link(rel='stylesheet' href='//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css')
-            script(src='//code.jquery.com/jquery-1.10.2.js')
-            script(src='//code.jquery.com/ui/1.11.2/jquery-ui.js')
 
         link(rel='stylesheet' href='css/bootstrap.min.css')
         style.
@@ -17,6 +12,7 @@ html
                 padding-top: 50px;
                 padding-bottom: 20px;
             }
+            /* adapted from http://stackoverflow.com/questions/19427850/disabled-a-list-group-item-in-bootstrap-3-0 */
             .list-group > a.disabled {
                 background-color: #eee;
                 color: #777;
@@ -25,7 +21,8 @@ html
                 background-color: #eee;
                 color: #777;
             }
-        // adapted from http://stackoverflow.com/questions/19427850/disabled-a-list-group-item-in-bootstrap-3-0
+            /* Hide everything but top level on load */
+            .list-group:not(.container) { display: none; }
         link(rel='stylesheet' href='css/bootstrap-theme.min.css')
         link(rel='stylesheet' href='css/main.css')
 
@@ -34,12 +31,7 @@ html
         .navbar.navbar-inverse.navbar-fixed-top(role='navigation')
             .container
                 .navbar-header
-                    button.navbar-toggle(type='button' data-toggle='collapse' data-target='.navbar-collapse')
-                        span.sr-only Toggle navigation
-                        span.icon-bar
-                        span.icon-bar
-                        span.icon-bar
-                    a.navbar-brand(href='#') CS242 Portfolio
+                    a.navbar-brand CS242 Portfolio
         h1.text-center Projects
         .list-group.container
             each project, title in project_list
@@ -58,6 +50,9 @@ html
                                         a.list-group-item.disabled!= file.size + ' Bytes'
                                         a.list-group-item.disabled!= 'Type: ' + file.type
                                         a.list-group-item.disabled!= file.path
+                                        //
+                                            Embed files in different ways depending on type. Don't display binary files.
+                                            To improve load time, set source of img and iframe to nothing and swap in actual src when expanded
                                         if file.type == '.pdf'
                                             //may not work with built in chrome pdf viewer. Adobe plugin works.
                                             embed(src='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' height='300' width='800')
