@@ -40,8 +40,8 @@ html
                         span.icon-bar
                         span.icon-bar
                     a.navbar-brand(href='#') CS242 Portfolio
-        h1 Projects:
-        .list-group
+        h1.text-center Projects
+        .list-group.container
             each project, title in project_list
                 div
                     a.list-group-item.expandable.project(href='#')!= title
@@ -60,22 +60,14 @@ html
                                         a.list-group-item.disabled!= file.path
                                         if file.type == '.pdf'
                                             //may not work with built in chrome pdf viewer. Adobe plugin works.
-                                            embed(src='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' width='500' height='500')
+                                            embed(src='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' height='300' width='800')
                                         else if file.type == '.png'
-                                            img(src='about:blank' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path alt='picture')
+                                            img(src='' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path alt='picture')
                                         else if file.type == '.o' || file.type == '.class' || file.type == '.exe' || file.type == '.odt'
                                             a.list-group-item.disabled Cannot display
                                         else
-                                            iframe(src='about:blank' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path)
-                                        //-
-                                            if file.type == '.pdf'
-                                                embed(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path width=800px height=2100px)
-                                            else if file.type == '.png'
-                                                img(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path alt='picture')
-                                            else if file.type == '.o'
-                                                p Cannot display
-                                            else
-                                                iframe(src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path)
+                                            iframe(src='about:blank' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path height='300' width='800')
+
                                         div
                                             a.list-group-item.expandable.version(href='#') versions
                                             ul.list-group
