@@ -5,6 +5,12 @@ var project = require('./projectEntry.js');
 var file = require('./fileEntry.js');
 var version = require('./versionEntry.js');
 
+/**
+ * Parses the list into
+ * @param parsedXml
+ * @param projects
+ * @returns {*}
+ */
 exports.list_parser = function (parsedXml, projects) {
     parsedXml.forEach(function (element, index, array) {
         var name = getProjectName(String(element.name), 0);
