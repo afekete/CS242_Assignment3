@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="591">
+<author>fekete2</author>
+<date>2014-10-17T20:29:02.249193Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/fekete2/TestProject</path>
+<path
+   kind="file"
+   action="A">/fekete2/TestProject/TestFile.txt</path>
+<path
+   kind="dir"
+   action="A">/fekete2/TestProject/TestFolder</path>
+<path
+   kind="file"
+   action="A">/fekete2/TestProject/TestFolder/TestFile2.txt</path>
+</paths>
+<msg>Test message</msg>
+</logentry>
+</log>

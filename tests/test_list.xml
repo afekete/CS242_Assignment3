@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2">
+<entry
+   kind="dir">
+<name>TestProject</name>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>TestProject/TestFile.txt</name>
+<size>4404</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>TestProject/TestFolder</name>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>TestProject/TestFolder/TestFile2.txt</name>
+<size>1234</size>
+<commit
+   revision="591">
+<author>fekete2</author>
+<date>2014-09-04T01:55:55.227110Z</date>
+</commit>
+</entry>
+</list>
+</lists>
