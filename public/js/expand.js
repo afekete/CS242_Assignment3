@@ -24,6 +24,6 @@ $(document).ready(function() {
         }
 
         // Toggle showing list-group siblings
-        $(this).siblings('.list-group').toggle();
+        $(this).siblings('.list-group').slideToggle("medium");
     })
 });
