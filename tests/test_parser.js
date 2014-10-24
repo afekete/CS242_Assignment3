@@ -1,5 +1,6 @@
 /**
  * Created by Alec on 10/22/2014.
+ * Uses nodeunit
  */
 var xml2js = require('xml2js');
 var fs = require('fs');

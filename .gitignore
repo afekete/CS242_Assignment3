@@ -1,3 +1,5 @@
 # Ignore node_modules (express in this case)
 node_modules/
 .idea/
+svn/
+*.odt

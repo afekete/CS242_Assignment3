@@ -40,7 +40,6 @@ async.parallel([
 function(err, results) {
     project_list = parse.list_parser(svn_list.lists.list[0].entry, project_list);
     project_list = parse.log_parser(svn_log.log.logentry, project_list);
-
 });
 
 // Set the location of the jade files and set the view engine to jade
