@@ -4,7 +4,6 @@
  */
 var xml2js = require('xml2js');
 var fs = require('fs');
-var async = require('async');
 var parse = require('../js/svn_parser.js');
 
 // Reads in and parses a simple list and makes sure it has correct values in the deepest part of the hierarchy

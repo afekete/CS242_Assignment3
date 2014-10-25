@@ -23,6 +23,20 @@ html
             }
             /* Hide everything but top level on load */
             .list-group:not(.container) { display: none; }
+
+            .project {
+                border-radius: 4px;
+            }
+
+            .list-group-item:not(.project) {
+                border-radius: 0;
+            }
+
+            .active {
+                border-bottom-right-radius: 0;
+            }
+
+
         link(rel='stylesheet' href='css/bootstrap-theme.min.css')
         link(rel='stylesheet' href='css/main.css')
 
@@ -35,18 +49,20 @@ html
         h1.text-center Projects
         .list-group.container
             each project, title in project_list
+                //Projects
                 div
                     a.list-group-item.expandable.project(href='#')!= title
-                    .list-group
+                    .list-group(style='margin-left: 2%;')
                         a.list-group-item.disabled!= 'Date: ' + project.date
                         a.list-group-item.disabled!= 'Revision ' + project.version
                         a.list-group-item.disabled!= 'Message: ' + project.summary
                         a.list-group-item.expandable.file(href='#') Files
-                        .list-group
+                        .list-group(style='margin-left: 2%;')
                             each file, name in project.files
+                                //Files
                                 div
                                     a.list-group-item.expandable.name(href='#')!= name
-                                    .list-group
+                                    .list-group(style='margin-left: 2%;')
                                         a.list-group-item.disabled!= file.size + ' Bytes'
                                         a.list-group-item.disabled!= 'Type: ' + file.type
                                         a.list-group-item.disabled!= file.path
@@ -65,8 +81,9 @@ html
 
                                         div
                                             a.list-group-item.expandable.version(href='#') versions
-                                            ul.list-group
+                                            ul.list-group(style='margin-left: 2%;')
                                                 each version in file.versions
+                                                    //Versions
                                                     li.list-group-item.disabled!= 'Revision: ' + version.revision
                                                     li.list-group-item.disabled!= 'Netid: ' + version.netid
                                                     li.list-group-item.disabled!= 'Message: ' + version.message
