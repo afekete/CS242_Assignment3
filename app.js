@@ -8,7 +8,8 @@ var express = require('express'),
     util = require('util'),
     parse = require('./js/svn_parser.js');
 
-var db = mongoskin.db('mongodb://@localhost:27017/test', {safe:true});
+// mongo stuff based on http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/
+var db = mongoskin.db('mongodb://localhost:27017/portfolio_comments', {safe:true, native_parser:true});
 
 //create express server
 var app = express();

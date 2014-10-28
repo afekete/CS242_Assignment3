@@ -22,13 +22,13 @@ html
                 color: #777;
             }
             /* Hide everything but top level on load */
-            .list-group:not(.container) { display: none; }
+            .list-group .inner { display: none; }
 
             .project {
                 border-radius: 4px;
             }
 
-            .list-group-item:not(.project) {
+            .list-group .inner > .list-group-item {
                 border-radius: 0;
             }
 
@@ -36,7 +36,13 @@ html
                 border-bottom-right-radius: 0;
             }
 
+            .well {
+                margin-bottom: 0;
+            }
 
+            .timestamp {
+                color: #999;
+            }
         link(rel='stylesheet' href='css/bootstrap-theme.min.css')
         link(rel='stylesheet' href='css/main.css')
 
@@ -49,28 +55,28 @@ html
         h1.text-center Projects
         .list-group.container
             each project, title in project_list
-                //Projects
+                //- Projects
                 div
                     a.list-group-item.expandable.project(href='#')!= title
-                    .list-group(style='margin-left: 2%;')
+                    .list-group.inner(style='margin-left: 2%;')
                         a.list-group-item.disabled!= 'Date: ' + project.date
                         a.list-group-item.disabled!= 'Revision ' + project.version
                         a.list-group-item.disabled!= 'Message: ' + project.summary
                         a.list-group-item.expandable.file(href='#') Files
-                        .list-group(style='margin-left: 2%;')
+                        .list-group.inner(style='margin-left: 2%;')
                             each file, name in project.files
-                                //Files
+                                //- Files
                                 div
                                     a.list-group-item.expandable.name(href='#')!= name
-                                    .list-group(style='margin-left: 2%;')
+                                    .list-group.inner(style='margin-left: 2%;')
                                         a.list-group-item.disabled!= file.size + ' Bytes'
                                         a.list-group-item.disabled!= 'Type: ' + file.type
                                         a.list-group-item.disabled!= file.path
-                                        //
+                                        //-
                                             Embed files in different ways depending on type. Don't display binary files.
                                             To improve load time, set source of img and iframe to nothing and swap in actual src when expanded
                                         if file.type == '.pdf'
-                                            //may not work with built in chrome pdf viewer. Adobe plugin works.
+                                            //- may not work with built in chrome pdf viewer. Adobe plugin works.
                                             embed(src='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path type='application/pdf' height='300' width='800')
                                         else if file.type == '.png'
                                             img(src='' data-src!='https://subversion.ews.illinois.edu/svn/fa14-cs242/fekete2/'+file.path alt='picture')
@@ -81,17 +87,30 @@ html
 
                                         div
                                             a.list-group-item.expandable.version(href='#') versions
-                                            ul.list-group(style='margin-left: 2%;')
+                                            ul.list-group.inner(style='margin-left: 2%;')
                                                 each version in file.versions
-                                                    //Versions
+                                                    //- Versions
                                                     li.list-group-item.disabled!= 'Revision: ' + version.revision
                                                     li.list-group-item.disabled!= 'Netid: ' + version.netid
                                                     li.list-group-item.disabled!= 'Message: ' + version.message
                                                     li.list-group-item.disabled!= 'Date: ' + version.date
                                                     br
+
+        .comment-area.container
+            .panel.panel-primary#comments
+                .panel-heading
+                    h4.panel-title
+                        a(data-toggle='collapse' data-target='#comments .list-group') Comments
+                ul.list-group.collapse.in
+                .input-group#add-comment
+                    input.form-control(type='text')
+                    span.input-group-btn
+                        button.btn.btn-default(type='button') Submit
+
         script(src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
         script.
             window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.min.js"><\/script>')
         script(src='js/expand.js')
+        script(src='js/comments.js')
         script(src='js/vendor/bootstrap.min.js')
         script(src='js/main.js')
