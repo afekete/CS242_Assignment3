@@ -21,8 +21,15 @@ html
                 background-color: #eee;
                 color: #777;
             }
+
+            form {
+                display: table;
+                margin-bottom: 0;
+            }
             /* Hide everything but top level on load */
             .list-group .inner { display: none; }
+
+            .add-reply { display: none; }
 
             .project {
                 border-radius: 4px;
@@ -40,8 +47,9 @@ html
                 margin-bottom: 0;
             }
 
-            .timestamp {
+            .subcomment {
                 color: #999;
+                font-size: 75%;
             }
         link(rel='stylesheet' href='css/bootstrap-theme.min.css')
         link(rel='stylesheet' href='css/main.css')
@@ -102,14 +110,16 @@ html
                     h4.panel-title
                         a(data-toggle='collapse' data-target='#comments .list-group') Comments
                 ul.list-group.collapse.in
-                .input-group#add-comment
+                form.input-group#add-comment
                     input.form-control(type='text')
                     span.input-group-btn
-                        button.btn.btn-default(type='button') Submit
+                        button.btn.btn-default(type='submit') Submit
 
         script(src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
         script.
             window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.min.js"><\/script>')
+        link(rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css')
+        script(src='//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js')
         script(src='js/expand.js')
         script(src='js/comments.js')
         script(src='js/vendor/bootstrap.min.js')
