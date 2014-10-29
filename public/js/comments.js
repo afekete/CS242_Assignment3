@@ -8,14 +8,28 @@ $(document).ready(function() {
     populateComments();
     var commentSection = $('#comments');
     //commentSection.find('.input-group .input-group-btn button').on('click', addComment);
-    $('#add-comment').on('submit', addComment);
+    $('#add-comment').on('submit', commentRouter);
     //commentSection.on('click', '.reply-submit', addReply);
-    commentSection.on('submit', '.add-reply', addReply);
+    commentSection.on('submit', '.add-reply', replyRouter);
     commentSection.on('click', '.comment-reply', function (e) {
         e.preventDefault();
         $(this).parent().siblings('.add-reply').toggle()
     });
 });
+
+function commentRouter(event) {
+    event.preventDefault();
+    var message = $('#add-comment').find('input').val();
+    var tag = $(this);
+    filterMessage(message, 'comment', tag)
+}
+
+function replyRouter(event) {
+    event.preventDefault();
+    var message = $(this).children('.form-control').val();
+    var tag = $(this);
+    filterMessage(message, 'reply', tag)
+}
 
 function populateComments() {
     var comment = '';
@@ -23,7 +37,6 @@ function populateComments() {
     $.getJSON('/collections/commentlist', function(data) {
         $.each(data, function() {
             if(this.reply == 'false') {
-                console.log(this.message);
                 comment += '<li class="list-group-item" data-id=' + this._id + '>';
                 comment += '<div>' + this.message + '</div>';
                 comment += '<div class="subcomment"><a class="comment-reply" href="#">reply</a>  ' + this.time + '</div>';
@@ -51,9 +64,7 @@ function populateComments() {
 
 function htmlAddReplies(childid, parent_id) {
     var new_comment = '';
-    console.log('childid: ' + childid);
     $.getJSON('/collections/commentlist/' + childid, function (data) {
-        console.log('message: ' + data.message);
         new_comment += '<li class="list-group-item" data-id=' + data._id + '>';
         new_comment += '<div>' + data.message + '</div>';
         new_comment += '<div class="subcomment"><a class="comment-reply" href="#">reply</a>  ' + data.time + '</div>';
@@ -65,7 +76,6 @@ function htmlAddReplies(childid, parent_id) {
         new_comment += '</form>';
         new_comment += '</li>';
 
-        //console.log('reply html: ' + new_comment);
         $('.list-group-item[data-id=' + parent_id + ']').append(new_comment);
         if (typeof data.children != 'undefined') {
             var current_id = data._id;
@@ -74,16 +84,12 @@ function htmlAddReplies(childid, parent_id) {
                     htmlAddReplies(childid, current_id)
                 }
             })
-        } else {
-            console.log('bottom level: '+data.message)
         }
     });
 }
 
-function addComment(event) {
-    event.preventDefault();
+function addComment(message, tag) {
 
-    var message = $('#add-comment').find('input').val();
     if( message !== '' && safeMessage(message)) {
         var d = new Date();
 
@@ -100,7 +106,6 @@ function addComment(event) {
             url: '/collections/commentlist',
             dataType: 'JSON'
         }).done(function (response) {
-            console.log(response.msg);
             if (response.msg !== '') {
                 $('#add-comment').find('input').val('');
                 populateComments()
@@ -114,11 +119,9 @@ function addComment(event) {
     }
 }
 
-function addReply(event) {
-    event.preventDefault();
+function addReply(message, tag) {
 
-    var message = $(this).children('.form-control').val();
-    var parentid = $(this).closest('.list-group-item').data('id');
+    var parentid = tag.closest('.list-group-item').data('id');
     if (message !== '' && safeMessage(message)) {
         var d = new Date();
 
@@ -135,7 +138,7 @@ function addReply(event) {
             dataType: 'JSON'
         }).done(function (response) {
             if (response.msg !== '') {
-                $(this).parent().siblings('input').val('');
+                tag.parent().siblings('input').val('');
                 $.ajax({
                     type: 'PUT',
                     data: {'children': response[0]._id},
@@ -159,6 +162,24 @@ function addReply(event) {
 
 function safeMessage(message) {
     return !message.match(/[<>{}]/)
+}
+
+function filterMessage(message, type, tag) {
+    var fixedMessage = message;
+    $.getJSON('/collections/bad_words', function (data) {
+        var word_list = data[0];
+        for (bad_word in word_list) {
+            if(word_list.hasOwnProperty(bad_word) && bad_word != '_id') {
+                var regex = new RegExp(bad_word, "gi");
+                fixedMessage = fixedMessage.replace(regex, word_list[bad_word]);
+            }
+        }
+        if(type == 'comment') {
+            addComment(fixedMessage, tag)
+        } else {
+            addReply(fixedMessage, tag)
+        }
+    });
 }
 
 toastr.options = {
