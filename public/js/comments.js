@@ -31,6 +31,7 @@ function replyRouter(event) {
 
 function populateComments() {
     var comment = '';
+    $('#comments').find('.list-group').html('');
 
     $.getJSON('/collections/commentlist', function(data) {
         $.each(data, function() {
@@ -45,6 +46,10 @@ function populateComments() {
                 comment += '</span>';
                 comment += '</form>';
                 comment += '</li>';
+
+                $('#comments').find('.list-group').append(comment);
+                comment = '';
+
                 if (typeof this.children != 'undefined') {
                     var parent_id = this._id;
                     this.children.forEach(function (childid) {
@@ -55,8 +60,6 @@ function populateComments() {
                 }
             }
         });
-
-        $('#comments').find('.list-group').html(comment)
     });
 }
 
