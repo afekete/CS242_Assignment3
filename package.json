@@ -33,6 +33,7 @@
   "devDependencies": {
     "expect.js": "^0.3.1",
     "mocha": "^1.18.2",
+    "qunitjs": "^1.15.0",
     "superagent": "^0.17.0"
   }
 }

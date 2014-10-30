@@ -1,0 +1,17 @@
+//
+   Created by Alec on 10/29/2014.
+html
+   head
+      meta(charset="utf-8")
+      title QUnit Tests
+      link(rel="stylesheet" href="//code.jquery.com/qunit/qunit-1.15.0.css")
+
+   body
+      div(id="qunit")
+      div(id="qunit-fixture")
+
+      script(src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+      script.
+         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.min.js"><\/script>')
+      script(src="//code.jquery.com/qunit/qunit-1.15.0.js")
+      script(src="js/tests.js")

@@ -101,6 +101,10 @@ app.get('/', function (req, res, next) {
 	res.render('index', { title: 'CS242 Portfolio', project_list: project_list})
 });
 
+app.get('/test', function (req, res, next) {
+    res.render('testing')
+});
+
 // Set up the server to listen at the correct port (provided by heroku or 3000 on local host)
 var server = app.listen(process.env.PORT || 3000, function () {
 	var host = server.address().address;

@@ -7,9 +7,7 @@ var commentList = [];
 $(document).ready(function() {
     populateComments();
     var commentSection = $('#comments');
-    //commentSection.find('.input-group .input-group-btn button').on('click', addComment);
     $('#add-comment').on('submit', commentRouter);
-    //commentSection.on('click', '.reply-submit', addReply);
     commentSection.on('submit', '.add-reply', replyRouter);
     commentSection.on('click', '.comment-reply', function (e) {
         e.preventDefault();
