@@ -58,11 +58,13 @@ app.use(h5bp({ root: __dirname + '/views' }));
 app.use(express.static(__dirname + '/views'));
 app.use(express.static(__dirname + '/public'));
 
+// whenever parameter collectionName in url, sets req.collection to the right collection in the database
 app.param('collectionName', function(req, res, next, collectionName) {
     req.collection = db.collection(collectionName);
     return next();
 });
 
+/*** RESTful interaction setup ***/
 app.get('/collections/:collectionName', function(req, res, next) {
     req.collection.find({}, {sort:[['_id', 1]]}).toArray(function(e, results) {
         if (e) return next(e);
@@ -82,6 +84,7 @@ app.get('/collections/:collectionName/:id', function(req, res, next) {
     })
 });
 app.put('/collections/:collectionName/:id', function(req, res, next) {
+    // put requests add to the database rather than replace current data
     req.collection.updateById(req.params.id, {$push:req.body}, {safe:true, multi:false},
     function(e, result) {
         if (e) return next(e);
